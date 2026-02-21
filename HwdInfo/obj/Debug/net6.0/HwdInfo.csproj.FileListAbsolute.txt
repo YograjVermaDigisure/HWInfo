@@ -1,0 +1,14 @@
+I:\Console\HwdInfo\HwdInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.exe
+I:\Console\HwdInfo\HwdInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.deps.json
+I:\Console\HwdInfo\HwdInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.runtimeconfig.json
+I:\Console\HwdInfo\HwdInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.dll
+I:\Console\HwdInfo\HwdInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.pdb
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.GeneratedMSBuildEditorConfig.editorconfig
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.AssemblyInfoInputs.cache
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.AssemblyInfo.cs
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.csproj.CoreCompileInputs.cache
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.dll
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\refint\HwdInfo.dll
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.pdb
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.genruntimeconfig.cache
+I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\ref\HwdInfo.dll
