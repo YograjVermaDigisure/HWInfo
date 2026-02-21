@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HwdInfo
-build_property.ProjectDir = I:\Console\HwdInfo\HwdInfo\HwdInfo\
+build_property.ProjectDir = C:\Program Files\Git\HWInfo\HwdInfo\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

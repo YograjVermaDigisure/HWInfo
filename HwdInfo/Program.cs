@@ -57,6 +57,7 @@
         static void Main(string[] args)
         {
             uint serialNumber;
+            Console.WriteLine("Release Date : 21/Feb/2026");
             GetVolumeSerial("C:\\", out serialNumber);
             Console.WriteLine($"Volume Serial Number: {serialNumber:X}");
             string macAddress = GetMacAddress();

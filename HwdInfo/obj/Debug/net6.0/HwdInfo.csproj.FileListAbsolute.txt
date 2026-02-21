@@ -12,3 +12,18 @@ I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\refint\HwdInfo.dll
 I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.pdb
 I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.genruntimeconfig.cache
 I:\Console\HwdInfo\HwdInfo\HwdInfo\obj\Debug\net6.0\ref\HwdInfo.dll
+C:\Program Files\Git\HWInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.exe
+C:\Program Files\Git\HWInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.deps.json
+C:\Program Files\Git\HWInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.runtimeconfig.json
+C:\Program Files\Git\HWInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.dll
+C:\Program Files\Git\HWInfo\HwdInfo\bin\Debug\net6.0\HwdInfo.pdb
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.AssemblyInfoInputs.cache
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.AssemblyInfo.cs
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.csproj.CoreCompileInputs.cache
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.sourcelink.json
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.dll
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\refint\HwdInfo.dll
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.pdb
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\HwdInfo.genruntimeconfig.cache
+C:\Program Files\Git\HWInfo\HwdInfo\obj\Debug\net6.0\ref\HwdInfo.dll
